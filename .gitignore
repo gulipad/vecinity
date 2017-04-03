@@ -1,2 +1,3 @@
 config/secrets.yml
 config/application.yml
+log/development.log
