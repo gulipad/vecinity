@@ -1,0 +1,5 @@
+page_access_token: <%= ENV["PAGE_ACCESS_TOKEN"] %>
+verify_token: <%= ENV["VERIFY_TOKEN"] %>
+app_secret: <%= ENV["APP_SECRET"] %>
+state_machine_reset_to: 1
+# ok
